@@ -1,10 +1,12 @@
 # Comment utiliser la silhouette Cameo
 
+<!--gif-->
+
 ## Mise en place
 
 ![Screenshot du logiciel](./images/screen1.png)
 
-Commencer par installer le logiciel Silhouette Studio, et faire glisser le png à imprimer sur la surface de découpe.
+Commencer par installer le [logiciel Silhouette Studio](https://www.silhouettefr.fr/applications-logiciels/), et faire glisser le png à imprimer sur la surface de découpe.
 
 ![Screenshot du png](./images/screen2.png)
 
@@ -38,5 +40,7 @@ Une fois la découpe finie, après que la lame soit retournée se placer tout à
 
 Décoller doucement la plaque de vinyle de la plaque en plastique, et remettre soigneusement le papier bleu sur la plaque.
 Découper au ciseau autour du motif découpé, et enlever tout le vinyle de contreforme. 
+
+<!--gif d'enlever la contreforme-->
 
 Si besoin, mettre du scotch de peintre ou de l'autocollant de transfert par dessus le motif découpé pour le caler avant de le coller. Enlever le support de vinyle en dessous, le coller, frotter pour enlever les bulles d'air puis enlever le scotch par dessus.# Tuto_Silhouette_Cameo
