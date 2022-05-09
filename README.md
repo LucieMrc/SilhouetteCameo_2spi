@@ -34,6 +34,10 @@ Caler la plaque de découpe dans le coin sur la Cameo, et appuyer sur le bouton 
 
 Dans le mode Envoyer, sélectionner le type de matériau à découper puis cliquer sur le bouton Envoyer.
 
+**Point matériau :**
+- Vinyle, Mat = les vinyles de base, en rouleau ou en plaque, pas besoin de modifier les valeurs de découpe
+- Feuille d'autocollant métallique brossé = plaques de cuivre, pour ne pas découper le support carton de la plaque de cuivre, c'est mieux de baisser la force de la lame à 18.
+
 ## Récuperer le sticker
 
 Une fois la découpe finie, après que la lame soit retournée se placer tout à gauche de la Cameo, appuyer sur le bouton flèche vers le bas 🔽 pour libérer la plaque de découpe.
@@ -43,4 +47,4 @@ Découper au ciseau autour du motif découpé, et enlever tout le vinyle de cont
 
 <!--gif d'enlever la contreforme-->
 
-Si besoin, mettre du scotch de peintre ou de l'autocollant de transfert par dessus le motif découpé pour le caler avant de le coller. Enlever le support de vinyle en dessous, le coller, frotter pour enlever les bulles d'air puis enlever le scotch par dessus.# Tuto_Silhouette_Cameo
+Si besoin, mettre du scotch de peintre ou de l'autocollant de transfert par dessus le motif découpé pour le caler avant de le coller. Enlever le support de vinyle en dessous, le coller, frotter pour enlever les bulles d'air puis enlever le scotch par dessus.
