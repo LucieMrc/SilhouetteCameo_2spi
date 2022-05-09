@@ -10,7 +10,8 @@ Commencer par installer le [logiciel Silhouette Studio](https://www.silhouettefr
 
 ![Screenshot du png](./images/screen2.png)
 
-Vérifier que les traits rouges sur le png représentant les traits à découper sont bien placés et complets, vérifier la taille, et laisser un petit écart avec le bord.
+Il faut utiliser un png à fond transparent, permettant la découpe entre la partie pleine et la partie vide.
+Il faut donc vérifier que les traits rouges sur le png représentant les traits à découper sont bien placés et complets, vérifier la taille, et laisser un petit écart avec le bord.
 
 Une fois que tous les motifs à découper sont placés sur la surface dans le logiciel, on peux brancher, ouvrir et allumer la Cameo.
 
