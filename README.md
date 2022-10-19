@@ -1,5 +1,7 @@
 # Comment utiliser la silhouette Cameo
 
+**Ou comment utiliser plus ou moins en autonomie la Silhouette Cameo pour découper du vinyle, papier, et ainsi de suite.**
+
 <!--gif-->
 
 ## Mise en place
