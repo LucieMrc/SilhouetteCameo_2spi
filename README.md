@@ -1,4 +1,4 @@
-# Comment utiliser la silhouette Cameo
+# Silhouette Cameo 2spi
 
 **Ou comment utiliser plus ou moins en autonomie la Silhouette Cameo pour découper du vinyle, papier, et ainsi de suite.**
 
