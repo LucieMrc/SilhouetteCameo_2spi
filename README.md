@@ -54,3 +54,4 @@ Découper au ciseau autour du motif découpé, et enlever tout le vinyle de cont
 <!--gif d'enlever la contreforme-->
 
 Si besoin, mettre du scotch de peintre ou de l'autocollant de transfert par dessus le motif découpé pour le caler avant de le coller. Enlever le support de vinyle en dessous, le coller, frotter pour enlever les bulles d'air puis enlever le scotch par dessus.
+# SilhouetteCameo_sp33d
