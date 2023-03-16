@@ -1,6 +1,5 @@
 # Silhouette Cameo 2spi
 
-
 *[english version](https://github.com/LucieMrc/SilhouetteCameo_sp33d)*
 
 **Ou comment utiliser plus ou moins en autonomie la Silhouette Cameo pour découper du vinyle, papier, et ainsi de suite.**
