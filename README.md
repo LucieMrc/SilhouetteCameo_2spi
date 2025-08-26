@@ -59,7 +59,7 @@ Caler la plaque de découpe dans le coin sur la Cameo, et appuyer sur le bouton 
 
 ![Screenshot du logiciel en mode Envoyer](./images/scree6.png)
 
-Dans le mode Envoyer, sélectionner le type de matériau à découper puis cliquer sur le bouton Envoyer.
+Dans le mode Envoyer, sélectionner le type de matériau à découper puis cliquer sur le bouton Envoyer en bas.
 
 ![Screenshot du logiciel en mode Envoyer](./images/gif1.gif)
 
